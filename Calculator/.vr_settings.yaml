@@ -1,0 +1,24 @@
+--- !ruby/object:VR_ENV
+vr_yaml_file: "/Users/dongqi/visualruby/Calculator/.vr_settings.yaml"
+width: 1014
+height: 600
+panel_pos: 360
+notebook_panel_position: 400
+run_command_line: ruby main.rb
+open_files:
+- "/Users/dongqi/visualruby/Calculator/main.rb"
+- "/Users/dongqi/visualruby/Calculator/src/MyClass.rb"
+open_folders:
+- "/Users/dongqi/visualruby/Calculator"
+- "/Users/dongqi/visualruby/Calculator/src"
+- "/Users/dongqi/visualruby/Calculator/src/glade"
+current_file: "/Users/dongqi/visualruby/Calculator/src/MyClass.rb"
+current_line: 53
+rdoc_command_line: rdoc -x README
+browser: firefox
+backup_path: "/home/eric"
+tab_spaces: 2
+glade_path: glade-3
+font_name: Monospace 10
+builder: !ruby/object:Gtk::Builder {}
+top_level_window: false
